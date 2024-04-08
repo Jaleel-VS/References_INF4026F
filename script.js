@@ -14,6 +14,8 @@ document.addEventListener('DOMContentLoaded', function() {
         "Fatima, S (2023). AI Implementation in an E-commerce. In International Journal For Multidisciplinary Research (Vol. 5, Issue 6). International Journal for Multidisciplinary Research (IJFMR). https://doi.org/10.36948/ijfmr.2023.v05i06.8605",
         "Floridi, L., Cowls, J., Beltrametti, M., Chatila, R., Chazerand, P., Dignum, V., Luetge, C., Madelin, R., Pagallo, U., Rossi, F., Schafer, B., Valcke, P., & Vayena, E. (2018). AI4People—An",
         "Fosso Wamba, S., Queiroz, M. M., Guthrie, C., & Braganza, A. (2022). Industry experiences of artificial intelligence (AI): Benefits and challenges in operations and supply chain management. Production planning & control, 33(16), 1493-1497.",
+        "Gurau, M. I. (2021). The Impact of Social Media in the Digitization Process. 9. http://www.mihaelagurau.ro ",
+        
         "Héder, M. (2020). A criticism of AI ethics guidelines. Információs Társadalom, 20(4), 57. https://doi.org/10.22503/inftars.xx.2020.4.5",
         "Helo, P., & Hao, Y. (2021). Production Planning & Control The Management of Operations ISSN: (Print) (Online) Journal homepage: https://www.tandfonline.com/loi/tppc20 Artificial intelligence in operations management and supply chain management: an exploratory case study Artificial intelligence in operations management and supply chain management: an exploratory case study.",
         "Hussein, L. A., Kiumarsi, S., Baharudin, A. S., & Hilmi, M. F. (2020). Factors Influencing the Intention to Continue using B2B e-Commerce in Manufacturing SMEs. Engineering, Technology & Applied Science Research, 10(2), 5528–5533. https://doi.org/10.48084/ETASR.3373",
